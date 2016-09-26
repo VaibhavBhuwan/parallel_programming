@@ -1,6 +1,6 @@
 #include<omp.h>
 #include<stdio.h>
-//author yanshul sharma(iiit guwahati)
+
 int main()
 {
 	int a[10][10];
